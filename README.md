@@ -66,7 +66,7 @@ Captures information on special promotions applied to products.
 ## 📞 Contact Information
 For any queries or collaboration opportunities, feel free to reach out:
 - 📧 Email: [chitra.parsaila@gmail.com](mailto:chitra.parsaila@gmail.com)
-- 🔗 LinkedIn: (https://www.linkedin.com/in/chitra-parsaila/))
+- 🔗 LinkedIn: https://www.linkedin.com/in/chitra-parsaila/
 
 ---
 🔹 **This Power BI project provides a data-driven approach to optimizing e-commerce business strategies through insightful visual analytics.**
